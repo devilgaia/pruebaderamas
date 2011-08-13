@@ -1,4 +1,2 @@
-﻿esto es la version inicial
-en otro commit hago mas cambios
-el tercer commit con otra linea añadida
-una cuarta linea?
+﻿una cuarta linea?
+una nueva rama... nuevo codigo....
